@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks.deps.json
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks.runtimeconfig.json
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks.runtimeconfig.dev.json
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks.dll
+/home/francisco/hacker-rank/sticks/bin/Debug/netcoreapp3.1/sticks.pdb
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.AssemblyInfo.cs
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.dll
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.pdb
+/home/francisco/hacker-rank/sticks/obj/Debug/netcoreapp3.1/sticks.genruntimeconfig.cache

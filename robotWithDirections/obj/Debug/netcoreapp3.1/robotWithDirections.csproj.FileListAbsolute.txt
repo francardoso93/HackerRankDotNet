@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections.deps.json
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections.runtimeconfig.json
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections.runtimeconfig.dev.json
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections.dll
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/bin/Debug/netcoreapp3.1/robotWithDirections.pdb
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.AssemblyInfo.cs
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.dll
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.pdb
+/home/francisco/hacker-rank/AmazonTest/robotWithDirections/obj/Debug/netcoreapp3.1/robotWithDirections.genruntimeconfig.cache

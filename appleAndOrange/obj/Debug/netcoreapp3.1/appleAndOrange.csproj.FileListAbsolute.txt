@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange.deps.json
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange.runtimeconfig.json
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange.runtimeconfig.dev.json
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange.dll
+/home/francisco/hacker-rank/appleAndOrange/bin/Debug/netcoreapp3.1/appleAndOrange.pdb
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.AssemblyInfo.cs
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.dll
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.pdb
+/home/francisco/hacker-rank/appleAndOrange/obj/Debug/netcoreapp3.1/appleAndOrange.genruntimeconfig.cache

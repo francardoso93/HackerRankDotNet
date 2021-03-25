@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.AssemblyInfo.cs
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays.deps.json
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays.runtimeconfig.json
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays.runtimeconfig.dev.json
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays.dll
+/home/francisco/hacker-rank/sparseArrays/bin/Debug/netcoreapp3.1/sparseArrays.pdb
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.dll
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.pdb
+/home/francisco/hacker-rank/sparseArrays/obj/Debug/netcoreapp3.1/sparseArrays.genruntimeconfig.cache

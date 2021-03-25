@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion.deps.json
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion.runtimeconfig.json
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion.runtimeconfig.dev.json
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion.dll
+/home/francisco/hacker-rank/timeConversion/bin/Debug/netcoreapp3.1/timeConversion.pdb
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.AssemblyInfo.cs
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.dll
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.pdb
+/home/francisco/hacker-rank/timeConversion/obj/Debug/netcoreapp3.1/timeConversion.genruntimeconfig.cache

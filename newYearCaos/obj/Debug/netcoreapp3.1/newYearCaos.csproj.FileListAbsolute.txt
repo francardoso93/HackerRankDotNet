@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.AssemblyInfo.cs
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos.deps.json
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos.runtimeconfig.json
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos.runtimeconfig.dev.json
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos.dll
+/home/francisco/hacker-rank/newYearCaos/bin/Debug/netcoreapp3.1/newYearCaos.pdb
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.dll
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.pdb
+/home/francisco/hacker-rank/newYearCaos/obj/Debug/netcoreapp3.1/newYearCaos.genruntimeconfig.cache

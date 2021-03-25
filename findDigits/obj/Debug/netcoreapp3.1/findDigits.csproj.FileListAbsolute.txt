@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits.deps.json
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits.runtimeconfig.json
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits.runtimeconfig.dev.json
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits.dll
+/home/francisco/hacker-rank/findDigits/bin/Debug/netcoreapp3.1/findDigits.pdb
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.AssemblyInfo.cs
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.dll
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.pdb
+/home/francisco/hacker-rank/findDigits/obj/Debug/netcoreapp3.1/findDigits.genruntimeconfig.cache

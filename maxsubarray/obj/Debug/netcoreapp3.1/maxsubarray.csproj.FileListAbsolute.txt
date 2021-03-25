@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray.deps.json
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray.runtimeconfig.json
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray.runtimeconfig.dev.json
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray.dll
+/home/francisco/hacker-rank/maxsubarray/bin/Debug/netcoreapp3.1/maxsubarray.pdb
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.AssemblyInfo.cs
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.dll
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.pdb
+/home/francisco/hacker-rank/maxsubarray/obj/Debug/netcoreapp3.1/maxsubarray.genruntimeconfig.cache

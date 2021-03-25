@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.AssemblyInfo.cs
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles.deps.json
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles.runtimeconfig.json
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles.runtimeconfig.dev.json
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles.dll
+/home/francisco/hacker-rank/birthdayCakeCandles/bin/Debug/netcoreapp3.1/birthdayCakeCandles.pdb
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.dll
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.pdb
+/home/francisco/hacker-rank/birthdayCakeCandles/obj/Debug/netcoreapp3.1/birthdayCakeCandles.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap.deps.json
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap.runtimeconfig.json
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap.runtimeconfig.dev.json
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap.dll
+/home/francisco/hacker-rank/AmazonTest/swap/bin/Debug/netcoreapp3.1/swap.pdb
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.AssemblyInfo.cs
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.dll
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.pdb
+/home/francisco/hacker-rank/AmazonTest/swap/obj/Debug/netcoreapp3.1/swap.genruntimeconfig.cache

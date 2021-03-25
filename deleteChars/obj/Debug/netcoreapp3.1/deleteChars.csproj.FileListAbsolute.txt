@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars.deps.json
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars.runtimeconfig.json
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars.runtimeconfig.dev.json
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars.dll
+/home/francisco/hacker-rank/deleteChars/bin/Debug/netcoreapp3.1/deleteChars.pdb
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.AssemblyInfo.cs
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.dll
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.pdb
+/home/francisco/hacker-rank/deleteChars/obj/Debug/netcoreapp3.1/deleteChars.genruntimeconfig.cache

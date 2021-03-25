@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/francisco/hacker-rank/AmazonTest/exercise1-tests/exercise1-tests.csproj": {}
+  },
+  "projects": {
+    "/home/francisco/hacker-rank/AmazonTest/exercise1-tests/exercise1-tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/francisco/hacker-rank/AmazonTest/exercise1-tests/exercise1-tests.csproj",
+        "projectName": "exercise1-tests",
+        "projectPath": "/home/francisco/hacker-rank/AmazonTest/exercise1-tests/exercise1-tests.csproj",
+        "packagesPath": "/home/francisco/.nuget/packages/",
+        "outputPath": "/home/francisco/hacker-rank/AmazonTest/exercise1-tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/francisco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/francisco/hacker-rank/AmazonTest/exercise1/exercise1.csproj": {
+                "projectPath": "/home/francisco/hacker-rank/AmazonTest/exercise1/exercise1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/francisco/hacker-rank/AmazonTest/exercise1/exercise1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/francisco/hacker-rank/AmazonTest/exercise1/exercise1.csproj",
+        "projectName": "exercise1",
+        "projectPath": "/home/francisco/hacker-rank/AmazonTest/exercise1/exercise1.csproj",
+        "packagesPath": "/home/francisco/.nuget/packages/",
+        "outputPath": "/home/francisco/hacker-rank/AmazonTest/exercise1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/francisco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.AssemblyInfo.cs
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials.deps.json
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials.runtimeconfig.json
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials.runtimeconfig.dev.json
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials.dll
+/home/francisco/hacker-rank/bigFactorials/bin/Debug/netcoreapp3.1/bigFactorials.pdb
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.dll
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.pdb
+/home/francisco/hacker-rank/bigFactorials/obj/Debug/netcoreapp3.1/bigFactorials.genruntimeconfig.cache

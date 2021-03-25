@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet.deps.json
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet.runtimeconfig.json
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet.runtimeconfig.dev.json
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet.dll
+/home/francisco/hacker-rank/triplet/bin/Debug/netcoreapp3.1/triplet.pdb
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.AssemblyInfo.cs
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.dll
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.pdb
+/home/francisco/hacker-rank/triplet/obj/Debug/netcoreapp3.1/triplet.genruntimeconfig.cache

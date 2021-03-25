@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring.deps.json
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring.runtimeconfig.json
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring.runtimeconfig.dev.json
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring.dll
+/home/francisco/hacker-rank/vowelSubstring/bin/Debug/netcoreapp3.1/vowelSubstring.pdb
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.AssemblyInfo.cs
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.dll
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.pdb
+/home/francisco/hacker-rank/vowelSubstring/obj/Debug/netcoreapp3.1/vowelSubstring.genruntimeconfig.cache

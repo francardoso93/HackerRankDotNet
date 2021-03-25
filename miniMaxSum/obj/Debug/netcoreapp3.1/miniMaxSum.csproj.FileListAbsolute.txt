@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.AssemblyInfo.cs
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum.deps.json
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum.runtimeconfig.json
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum.runtimeconfig.dev.json
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum.dll
+/home/francisco/hacker-rank/miniMaxSum/bin/Debug/netcoreapp3.1/miniMaxSum.pdb
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.dll
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.pdb
+/home/francisco/hacker-rank/miniMaxSum/obj/Debug/netcoreapp3.1/miniMaxSum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay.deps.json
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay.runtimeconfig.json
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay.runtimeconfig.dev.json
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay.dll
+/home/francisco/hacker-rank/taumBDay/bin/Debug/netcoreapp3.1/taumBDay.pdb
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.AssemblyInfo.cs
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.dll
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.pdb
+/home/francisco/hacker-rank/taumBDay/obj/Debug/netcoreapp3.1/taumBDay.genruntimeconfig.cache

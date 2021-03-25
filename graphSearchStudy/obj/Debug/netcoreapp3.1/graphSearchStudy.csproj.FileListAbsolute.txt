@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy.deps.json
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy.runtimeconfig.json
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy.runtimeconfig.dev.json
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy.dll
+/home/francisco/hacker-rank/graphSearchStudy/bin/Debug/netcoreapp3.1/graphSearchStudy.pdb
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.AssemblyInfo.cs
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.dll
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.pdb
+/home/francisco/hacker-rank/graphSearchStudy/obj/Debug/netcoreapp3.1/graphSearchStudy.genruntimeconfig.cache

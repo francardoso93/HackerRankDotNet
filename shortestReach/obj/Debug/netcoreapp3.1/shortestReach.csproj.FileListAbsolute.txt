@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach.deps.json
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach.runtimeconfig.json
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach.runtimeconfig.dev.json
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach.dll
+/home/francisco/hacker-rank/shortestReach/bin/Debug/netcoreapp3.1/shortestReach.pdb
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.AssemblyInfo.cs
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.dll
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.pdb
+/home/francisco/hacker-rank/shortestReach/obj/Debug/netcoreapp3.1/shortestReach.genruntimeconfig.cache

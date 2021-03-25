@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge.deps.json
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge.runtimeconfig.json
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge.runtimeconfig.dev.json
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge.dll
+/home/francisco/hacker-rank/first-challenge/bin/Debug/netcoreapp3.1/first-challenge.pdb
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.AssemblyInfo.cs
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.dll
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.pdb
+/home/francisco/hacker-rank/first-challenge/obj/Debug/netcoreapp3.1/first-challenge.genruntimeconfig.cache

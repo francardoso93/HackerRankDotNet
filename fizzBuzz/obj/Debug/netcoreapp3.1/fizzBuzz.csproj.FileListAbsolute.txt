@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz.deps.json
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz.runtimeconfig.json
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz.runtimeconfig.dev.json
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz.dll
+/home/francisco/hacker-rank/fizzBuzz/bin/Debug/netcoreapp3.1/fizzBuzz.pdb
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.AssemblyInfo.cs
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.dll
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.pdb
+/home/francisco/hacker-rank/fizzBuzz/obj/Debug/netcoreapp3.1/fizzBuzz.genruntimeconfig.cache

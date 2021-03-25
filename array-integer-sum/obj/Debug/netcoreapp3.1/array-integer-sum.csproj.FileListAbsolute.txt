@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum.deps.json
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum.runtimeconfig.json
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum.runtimeconfig.dev.json
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum.dll
+/home/francisco/hacker-rank/array-integer-sum/bin/Debug/netcoreapp3.1/array-integer-sum.pdb
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.AssemblyInfo.cs
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.dll
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.pdb
+/home/francisco/hacker-rank/array-integer-sum/obj/Debug/netcoreapp3.1/array-integer-sum.genruntimeconfig.cache

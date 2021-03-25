@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone.deps.json
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone.runtimeconfig.json
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone.runtimeconfig.dev.json
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone.dll
+/home/francisco/hacker-rank/nearestClone/bin/Debug/netcoreapp3.1/nearestClone.pdb
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.AssemblyInfo.cs
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.dll
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.pdb
+/home/francisco/hacker-rank/nearestClone/obj/Debug/netcoreapp3.1/nearestClone.genruntimeconfig.cache

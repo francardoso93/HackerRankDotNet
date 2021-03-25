@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "newYearCaos/1.0.0": {
+        "runtime": {
+          "newYearCaos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "newYearCaos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

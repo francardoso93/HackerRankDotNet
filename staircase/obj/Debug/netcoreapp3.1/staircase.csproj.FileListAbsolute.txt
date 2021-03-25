@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.AssemblyInfo.cs
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase.deps.json
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase.runtimeconfig.json
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase.runtimeconfig.dev.json
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase.dll
+/home/francisco/hacker-rank/staircase/bin/Debug/netcoreapp3.1/staircase.pdb
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.dll
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.pdb
+/home/francisco/hacker-rank/staircase/obj/Debug/netcoreapp3.1/staircase.genruntimeconfig.cache

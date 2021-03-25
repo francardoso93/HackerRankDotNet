@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.AssemblyInfo.cs
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2.deps.json
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2.runtimeconfig.json
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2.runtimeconfig.dev.json
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2.dll
+/home/francisco/hacker-rank/minmumSwaps2/bin/Debug/netcoreapp3.1/minmumSwaps2.pdb
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.dll
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.pdb
+/home/francisco/hacker-rank/minmumSwaps2/obj/Debug/netcoreapp3.1/minmumSwaps2.genruntimeconfig.cache

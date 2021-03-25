@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.AssemblyInfo.cs
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents.deps.json
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents.runtimeconfig.json
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents.runtimeconfig.dev.json
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents.dll
+/home/francisco/hacker-rank/gradingStudents/bin/Debug/netcoreapp3.1/gradingStudents.pdb
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.dll
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.pdb
+/home/francisco/hacker-rank/gradingStudents/obj/Debug/netcoreapp3.1/gradingStudents.genruntimeconfig.cache

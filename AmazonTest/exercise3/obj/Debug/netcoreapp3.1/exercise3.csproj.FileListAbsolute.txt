@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3.deps.json
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3.runtimeconfig.json
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3.runtimeconfig.dev.json
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3.dll
+/home/francisco/hacker-rank/AmazonTest/exercise3/bin/Debug/netcoreapp3.1/exercise3.pdb
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.AssemblyInfo.cs
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.dll
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.pdb
+/home/francisco/hacker-rank/AmazonTest/exercise3/obj/Debug/netcoreapp3.1/exercise3.genruntimeconfig.cache

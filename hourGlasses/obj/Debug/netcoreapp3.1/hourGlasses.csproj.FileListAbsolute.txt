@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses.deps.json
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses.runtimeconfig.json
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses.runtimeconfig.dev.json
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses.dll
+/home/francisco/hacker-rank/hourGlasses/bin/Debug/netcoreapp3.1/hourGlasses.pdb
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.AssemblyInfo.cs
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.dll
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.pdb
+/home/francisco/hacker-rank/hourGlasses/obj/Debug/netcoreapp3.1/hourGlasses.genruntimeconfig.cache

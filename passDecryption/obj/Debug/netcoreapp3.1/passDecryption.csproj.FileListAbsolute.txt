@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.AssemblyInfo.cs
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption.deps.json
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption.runtimeconfig.json
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption.runtimeconfig.dev.json
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption.dll
+/home/francisco/hacker-rank/passDecryption/bin/Debug/netcoreapp3.1/passDecryption.pdb
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.dll
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.pdb
+/home/francisco/hacker-rank/passDecryption/obj/Debug/netcoreapp3.1/passDecryption.genruntimeconfig.cache

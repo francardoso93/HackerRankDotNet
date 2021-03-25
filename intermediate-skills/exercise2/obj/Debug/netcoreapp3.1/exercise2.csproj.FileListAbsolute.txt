@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2.deps.json
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2.runtimeconfig.json
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2.runtimeconfig.dev.json
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2.dll
+/home/francisco/hacker-rank/intermediate-skills/exercise2/bin/Debug/netcoreapp3.1/exercise2.pdb
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.AssemblyInfo.cs
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.dll
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.pdb
+/home/francisco/hacker-rank/intermediate-skills/exercise2/obj/Debug/netcoreapp3.1/exercise2.genruntimeconfig.cache

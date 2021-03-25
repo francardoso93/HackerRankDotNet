@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote.deps.json
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote.runtimeconfig.json
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote.runtimeconfig.dev.json
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote.dll
+/home/francisco/hacker-rank/ransomNote/bin/Debug/netcoreapp3.1/ransomNote.pdb
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.AssemblyInfo.cs
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.dll
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.pdb
+/home/francisco/hacker-rank/ransomNote/obj/Debug/netcoreapp3.1/ransomNote.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal.deps.json
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal.runtimeconfig.json
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal.runtimeconfig.dev.json
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal.dll
+/home/francisco/hacker-rank/diagonal/bin/Debug/netcoreapp3.1/diagonal.pdb
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.AssemblyInfo.cs
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.dll
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.pdb
+/home/francisco/hacker-rank/diagonal/obj/Debug/netcoreapp3.1/diagonal.genruntimeconfig.cache

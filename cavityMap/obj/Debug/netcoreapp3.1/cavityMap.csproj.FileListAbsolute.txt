@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap.deps.json
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap.runtimeconfig.json
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap.runtimeconfig.dev.json
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap.dll
+/home/francisco/hacker-rank/cavityMap/bin/Debug/netcoreapp3.1/cavityMap.pdb
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.AssemblyInfo.cs
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.dll
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.pdb
+/home/francisco/hacker-rank/cavityMap/obj/Debug/netcoreapp3.1/cavityMap.genruntimeconfig.cache

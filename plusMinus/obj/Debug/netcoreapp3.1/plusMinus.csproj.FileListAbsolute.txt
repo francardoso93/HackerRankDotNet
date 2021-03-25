@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus.deps.json
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus.runtimeconfig.json
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus.runtimeconfig.dev.json
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus.dll
+/home/francisco/hacker-rank/plusMinus/bin/Debug/netcoreapp3.1/plusMinus.pdb
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.AssemblyInfo.cs
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.dll
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.pdb
+/home/francisco/hacker-rank/plusMinus/obj/Debug/netcoreapp3.1/plusMinus.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.AssemblyInfo.cs
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation.deps.json
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation.runtimeconfig.json
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation.runtimeconfig.dev.json
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation.dll
+/home/francisco/hacker-rank/arrayManipulation/bin/Debug/netcoreapp3.1/arrayManipulation.pdb
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.dll
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.pdb
+/home/francisco/hacker-rank/arrayManipulation/obj/Debug/netcoreapp3.1/arrayManipulation.genruntimeconfig.cache

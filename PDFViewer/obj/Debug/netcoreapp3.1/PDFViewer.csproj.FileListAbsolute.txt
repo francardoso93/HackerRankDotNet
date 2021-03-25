@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer.deps.json
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer.runtimeconfig.json
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer.runtimeconfig.dev.json
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer.dll
+/home/francisco/hacker-rank/PDFViewer/bin/Debug/netcoreapp3.1/PDFViewer.pdb
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.AssemblyInfo.cs
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.dll
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.pdb
+/home/francisco/hacker-rank/PDFViewer/obj/Debug/netcoreapp3.1/PDFViewer.genruntimeconfig.cache

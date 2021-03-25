@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation.deps.json
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation.runtimeconfig.json
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation.runtimeconfig.dev.json
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation.dll
+/home/francisco/hacker-rank/permutationEquation/bin/Debug/netcoreapp3.1/permutationEquation.pdb
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.AssemblyInfo.cs
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.dll
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.pdb
+/home/francisco/hacker-rank/permutationEquation/obj/Debug/netcoreapp3.1/permutationEquation.genruntimeconfig.cache

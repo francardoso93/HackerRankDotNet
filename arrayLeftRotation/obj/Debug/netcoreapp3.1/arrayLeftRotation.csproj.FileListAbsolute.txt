@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation.deps.json
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation.runtimeconfig.json
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation.runtimeconfig.dev.json
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation.dll
+/home/francisco/hacker-rank/arrayLeftRotation/bin/Debug/netcoreapp3.1/arrayLeftRotation.pdb
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.AssemblyInfo.cs
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.dll
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.pdb
+/home/francisco/hacker-rank/arrayLeftRotation/obj/Debug/netcoreapp3.1/arrayLeftRotation.genruntimeconfig.cache

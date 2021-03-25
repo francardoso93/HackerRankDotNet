@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot.deps.json
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot.runtimeconfig.json
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot.runtimeconfig.dev.json
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot.dll
+/home/francisco/hacker-rank/AmazonTest/robot/bin/Debug/netcoreapp3.1/robot.pdb
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.AssemblyInfo.cs
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.dll
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.pdb
+/home/francisco/hacker-rank/AmazonTest/robot/obj/Debug/netcoreapp3.1/robot.genruntimeconfig.cache

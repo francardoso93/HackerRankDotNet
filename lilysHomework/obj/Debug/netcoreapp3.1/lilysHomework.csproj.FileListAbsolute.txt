@@ -1,0 +1,13 @@
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework.deps.json
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework.runtimeconfig.json
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework.runtimeconfig.dev.json
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework.dll
+/home/francisco/hacker-rank/lilysHomework/bin/Debug/netcoreapp3.1/lilysHomework.pdb
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.csprojAssemblyReference.cache
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.AssemblyInfoInputs.cache
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.AssemblyInfo.cs
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.csproj.CoreCompileInputs.cache
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.dll
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.pdb
+/home/francisco/hacker-rank/lilysHomework/obj/Debug/netcoreapp3.1/lilysHomework.genruntimeconfig.cache
